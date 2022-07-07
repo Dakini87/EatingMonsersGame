@@ -7,8 +7,9 @@ public class Bird : MonoBehaviour
 {
     [SerializeField] float _launchForce = 500;
     [SerializeField] float _maxDragDistance = 5;
-    
+    // define a start position
     Vector2 _startPosition;
+    // define var:
     Rigidbody2D _rigidbody2D;
     SpriteRenderer _spriteRenderer;
 
@@ -21,16 +22,22 @@ public class Bird : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+    // the start position might be in vector 2
+    // Get the rigidbody to the component that prevent the bird to be falling. 
+    // isKinematic enables us to interact with a subject. The subject still simulated but just moves by our code not the physics subject like the gravity.  
         _startPosition = _rigidbody2D.position;
         _rigidbody2D.isKinematic = true;
     }
     void OnMouseDown()
     {
+    // Change the color of the bird to red when you click up the mouse  
         _spriteRenderer.color = Color.red;
     }
 
     void OnMouseUp()
     {
+    // define current position
+    //By dragging the mouse position of the bird would change
         Vector2 currentPosition = _rigidbody2D.position;
         Vector2 direction = _startPosition - currentPosition;
         direction.Normalize();
