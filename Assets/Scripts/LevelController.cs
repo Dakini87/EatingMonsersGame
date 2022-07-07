@@ -12,6 +12,7 @@ public class LevelController : MonoBehaviour
 
     void OnEnable()
     {
+     //create array of monsters
         _monsters = FindObjectsOfType<Monster>();
     }
     // Update is called once per frame
@@ -27,6 +28,7 @@ public class LevelController : MonoBehaviour
     }
     bool MonstersAreAllDead()
     {
+    //for each var monster we gonna iterate to see how many left in order to progress to anothe
         foreach (var monster in _monsters)
         {
             if (monster.gameObject.activeSelf)
