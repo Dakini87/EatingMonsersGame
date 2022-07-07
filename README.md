@@ -26,3 +26,4 @@ The following were the step by step process of how this small 2d game came toget
 12.In order for level change to work we need to go to file on unity and Build settings to change the default scenes we like.
 
 13. Working on camera setting , using prefab. From package manager installing Cinemachine.
+14. 
