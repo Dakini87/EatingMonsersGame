@@ -1,5 +1,5 @@
 # EatingMonsersGame
-The following were the step by step process of how this small 2d game came together:
+The following were the steps of how this small 2d game called 'Eating Monsters' came together:
 
 1. Download the bird package from this website: https://game.courses/birds/
 
