@@ -12,6 +12,7 @@ public class Bird : MonoBehaviour
     Rigidbody2D _rigidbody2D;
     SpriteRenderer _spriteRenderer;
 
+    // void means no return type. 
     void Awake()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
@@ -25,11 +26,14 @@ public class Bird : MonoBehaviour
         // to stop simulating 
         _rigidbody2D.isKinematic = true;
     }
+    // we define this to control the mouse function for playing. 
     void OnMouseDown()
+    // by clicking the bird its color changes to red. 
     {
         _spriteRenderer.color = Color.red;
     }
 
+    // define a function to return the bird's color by releasing the mouse to the white. 
     void OnMouseUp()
     {
         Vector2 currentPosition = _rigidbody2D.position;

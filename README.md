@@ -9,19 +9,20 @@ The following were the step by step process of how this small 2d game came toget
 
 4. We start with defining the environment and some initial functions for player such as using the mouse by clicking Up and Down as well as Dragging to change the color and position of the player.
 
-5. Creating a 2D Character with a SpriteRenderer, Physics with Rigidbody2D, Collisions, PolygonCollider2D, BoxCollider2D for the bird and the background.
+5. Creating a 2D Character with a SpriteRenderer, Physics with Rigidbody2D, Collisions, PolygonCollider2D, BoxCollider2D for the bird and the background. We also use this functions to change the color of the player. 
+6. We use mouse functions such as " OnMouseDown" to control the player by using the mouse. 
 
-6. Backgrounds, Sprite Tiling, SortingLayers, OrderInLayer
+7. Backgrounds, Sprite Tiling, SortingLayers, OrderInLayer
 
-7. After creating the bird asset and assigning the features we move to create anotehr asset - monster.
+8. After creating the bird asset and assigning the features we move to create anotehr asset - monster.
 
-8. We look at different ways that enemy ( a monster ) could die – for example from box collision.
+9. We look at different ways that enemy ( a monster ) could die – for example from box collision.
 
-9. Creating simple particle on our monster
+10. Creating simple particle on our monster
 
-10. Building up another level – when we kill all the monster we progress to another level
+11. Building up another level – when we kill all the monster we progress to another level
 
-11. After creating level 2 we need to write some code to progress from one level to another – we are going to create level progression control – simple script that keeps track of how many monsters are alive in our level and progresses to another level once all of the monsters are death. To do that we going to create another code script.
+12. After creating level 2 we need to write some code to progress from one level to another – we are going to create level progression control – simple script that keeps track of how many monsters are alive in our level and progresses to another level once all of the monsters are death. To do that we going to create another code script.
 
 12.In order for level change to work we need to go to file on unity and Build settings to change the default scenes we like.
 
