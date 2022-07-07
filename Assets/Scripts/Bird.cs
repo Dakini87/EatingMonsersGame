@@ -22,6 +22,7 @@ public class Bird : MonoBehaviour
     void Start()
     {
         _startPosition = _rigidbody2D.position;
+        // to stop simulating 
         _rigidbody2D.isKinematic = true;
     }
     void OnMouseDown()
