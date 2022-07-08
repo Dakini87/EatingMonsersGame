@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="comments" />
+    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="add comments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
@@ -111,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657281399957</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add comments">
+      <created>1657281699022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657281699022</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,9 +140,9 @@
     <MESSAGE value="add comments 2" />
     <MESSAGE value="bird commit" />
     <MESSAGE value="update ReadMe" />
-    <MESSAGE value="add comments" />
     <MESSAGE value="update" />
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments" />
   </component>
 </project>
