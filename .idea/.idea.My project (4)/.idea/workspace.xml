@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="add comments" />
+    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="add comments2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657282581490</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add comments2">
+      <created>1657282928470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657282928470</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +193,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="comments" />
     <MESSAGE value="add comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comments" />
+    <MESSAGE value="add comments2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments2" />
   </component>
 </project>
