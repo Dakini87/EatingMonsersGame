@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="add comments2" />
+    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="monster comments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +23,7 @@
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
@@ -167,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657282928470</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="monster comments">
+      <created>1657283436563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1657283436563</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +202,7 @@
     <MESSAGE value="comments" />
     <MESSAGE value="add comments" />
     <MESSAGE value="add comments2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add comments2" />
+    <MESSAGE value="monster comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="monster comments" />
   </component>
 </project>
