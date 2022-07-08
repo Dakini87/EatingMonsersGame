@@ -1,5 +1,5 @@
 # EatingMonsersGame
-The following were the step by step process of how this small 2d game came together:
+The following were the steps of how this small 2d game called 'Eating Monsters' came together:
 
 1. Download the bird package from this website: https://game.courses/birds/
 2. The aim of this project is to use this package features and try to modify them/add some features by using the appropriate codes according to the lecture of the IntroToUnity along with Jason Weimann 'Unity Game Development for Beginners' video/ courses guidlance. In short we start with builiding up our Assets , setting background and the coding with the initial features like making the bird flying or preventing them to fall and so on.
