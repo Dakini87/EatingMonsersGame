@@ -21,6 +21,7 @@
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Bird.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/Monster.cs" root0="SKIP_HIGHLIGHTING" />
@@ -144,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657282288204</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add comments">
+      <created>1657282382245</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657282382245</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add comments">
+      <created>1657282581490</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657282581490</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
