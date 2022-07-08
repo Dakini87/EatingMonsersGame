@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
-    //we define a new variable to control the amount of force.
+    //we define a new variable to control the amount of force of hitting.
     [SerializeField] float _launchForce = 500;
     [SerializeField] float _maxDragDistance = 5;
     
@@ -16,6 +16,7 @@ public class Bird : MonoBehaviour
     // void means no return type.
     void Awake()
     {
+        // define a variable
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
     }
@@ -29,7 +30,7 @@ public class Bird : MonoBehaviour
     //we define this to control the mouse function for playing.
     void OnMouseDown()
     {
-        //by clicking the bird its color changes to red
+        //by clicking the bird its color will change to red
         _spriteRenderer.color = Color.red;
     }
 
@@ -89,5 +90,9 @@ public class Bird : MonoBehaviour
         _rigidbody2D.position = _startPosition;
         _rigidbody2D.isKinematic = true;
         _rigidbody2D.velocity = Vector2.zero;
+        
+        
+            
     }
 }
+
