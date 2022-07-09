@@ -23,7 +23,7 @@ public class MovingBlock : MonoBehaviour
         // every single unit go just one unit to the left and we define that this movement happens in a defined unit.
         transform . position += Vector3.left * Time . deltaTime * moveSpeed ;
         
-        // prevent to falling the crate and define a new position 30m to the right
+        // prevent to falling the crate and define a new position 30m to the right. Read the X value of the position and if it is less that -15, reset the position. 
         if (transform.position.x <= -15)
         {
             transform . position += Vector3.right * 30f;
