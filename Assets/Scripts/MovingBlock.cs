@@ -7,7 +7,7 @@ public class MovingBlock : MonoBehaviour
 {
     [SerializeField] float moveSpeed = 3f;
 
-    float startingYPosition; 
+    float startingYPosition;
     public static int Score;
     public static int HighScore;
 
@@ -18,20 +18,21 @@ public class MovingBlock : MonoBehaviour
         // when we reload our level the score would be 0.
         Score = 0;
     }
+
     void Update()
     {
         // every single unit go just one unit to the left and we define that this movement happens in a defined unit.
-        transform . position += Vector3.left * Time . deltaTime * moveSpeed ;
-        
+        transform.position += Vector3.left * Time.deltaTime * moveSpeed;
+
         // prevent to falling the crate and define a new position 30m to the right. Read the X value of the position and if it is less that -15, reset the position. 
         if (transform.position.x <= -15)
         {
-            transform . position += Vector3.right * 30f;
+            transform.position += Vector3.right * 30f;
             // by this code the crate will be created randomly 
             //float newY = startingYPosition + UnityEngine.Random.Range(-1f, 1f);
             //transform.position = new Vector3(transform.position.x, newY, 0f);
             // increment it by one.
-            Score ++;
+            Score++;
             if (Score > HighScore)
             {
                 HighScore = Score;
@@ -39,10 +40,10 @@ public class MovingBlock : MonoBehaviour
                 {
                     SceneManager.LoadScene("Level1");
                 }
-                
+
+
+
             }
-
-
         }
     }
 }
