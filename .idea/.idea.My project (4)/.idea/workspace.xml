@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="moving" />
+    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="highscore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Fatemeh Akrami &lt;fakrami@uni-osnabrueck.de&gt;" />
+      </list>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/HighScoreText.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KillOnTouch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingBlock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,7 +58,7 @@
       <updated>1657227249007</updated>
       <workItem from="1657227265692" duration="1270000" />
       <workItem from="1657232858006" duration="12508000" />
-      <workItem from="1657318927650" duration="20494000" />
+      <workItem from="1657318927650" duration="20800000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1657232199161</created>
@@ -213,11 +221,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657348337371</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Score">
+      <created>1657348405459</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1657348405459</updated>
+    </task>
+    <task id="LOCAL-00025" summary="highscore">
+      <created>1657348568334</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1657348568334</updated>
+    </task>
+    <task id="LOCAL-00026" summary="highscore">
+      <created>1657348672131</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1657348672131</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.shader" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -247,6 +279,9 @@
     <MESSAGE value="mainmenu" />
     <MESSAGE value="player" />
     <MESSAGE value="moving" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving" />
+    <MESSAGE value="Score" />
+    <MESSAGE value="TMP" />
+    <MESSAGE value="highscore" />
+    <option name="LAST_COMMIT_MESSAGE" value="highscore" />
   </component>
 </project>
