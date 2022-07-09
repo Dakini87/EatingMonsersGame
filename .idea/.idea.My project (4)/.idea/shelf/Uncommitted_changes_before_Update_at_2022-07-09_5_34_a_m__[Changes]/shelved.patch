@@ -1,0 +1,19 @@
+Index: Assets/Scripts/HighScoreText.cs
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>using TMPro;\r\nusing UnityEngine;\r\n\r\npublic class HighScoreText : MonoBehaviour\r\n{\r\n\r\n    // Update is called once per frame\r\n    void Update()\r\n    {\r\n        GetComponent<TMP_Text>() . SetText (MovingBlock .HighhScore .ToString( ));\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Assets/Scripts/HighScoreText.cs b/Assets/Scripts/HighScoreText.cs
+--- a/Assets/Scripts/HighScoreText.cs	
++++ b/Assets/Scripts/HighScoreText.cs	
+@@ -7,6 +7,6 @@
+     // Update is called once per frame
+     void Update()
+     {
+-        GetComponent<TMP_Text>() . SetText (MovingBlock .HighhScore .ToString( ));
++        GetComponent<TMP_Text>() . SetText (MovingBlock . HighScore .ToString( ));
+     }
+ }
+\ No newline at end of file
