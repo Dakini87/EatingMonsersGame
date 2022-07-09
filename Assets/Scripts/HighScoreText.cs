@@ -7,6 +7,6 @@ public class HighScoreText : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        GetComponent<TMP_Text>() . SetText (MovingBlock .HighhScore .ToString( ));
+        GetComponent<TMP_Text>() . SetText (MovingBlock.HighScore.ToString( ));
     }
 }
