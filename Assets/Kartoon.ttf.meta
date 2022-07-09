@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bcd6c1a7421ecd04eb4788419fd19ab2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kartoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 87fde629ab0fb854f96f980ef9d9ebee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

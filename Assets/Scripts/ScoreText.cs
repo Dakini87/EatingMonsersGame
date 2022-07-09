@@ -5,15 +5,10 @@ using UnityEngine;
 
 public class ScoreText : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
-        GetComponent<TMP_Text>().SetText(Monster.Score.ToString());
+        GetComponent<TMP_Text>() . SetText (MovingBlock .Score .ToString( ));
     }
 }

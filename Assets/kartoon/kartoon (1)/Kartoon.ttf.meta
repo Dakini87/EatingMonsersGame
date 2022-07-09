@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8af3e95ed09e1884e924814086a04d1e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kartoon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2c2efb703cffb6418afceb41944d99a, type: 3}
+  - {fileID: 12800000, guid: ec488e71605515b41b79d390e77ea7e1, type: 3}
+  - {fileID: 12800000, guid: 7ade2626c5a88ad4eb1497348bedaa88, type: 3}
+  - {fileID: 12800000, guid: 8c62abd77d03d1b4bb6dadb93006247d, type: 3}
+  - {fileID: 12800000, guid: f2e85a4111e74004baddf33a68599afd, type: 3}
+  - {fileID: 12800000, guid: c396e05831746b4478941ee803d186fc, type: 3}
+  - {fileID: 12800000, guid: bcd6c1a7421ecd04eb4788419fd19ab2, type: 3}
+  - {fileID: 12800000, guid: 87fde629ab0fb854f96f980ef9d9ebee, type: 3}
+  - {fileID: 12800000, guid: 037b07096dd2df7468f1d437ff83d09f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
