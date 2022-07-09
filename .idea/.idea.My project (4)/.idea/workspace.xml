@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="moving blocks">
+    <list default="true" id="6c4a09f2-24d0-4442-8b1c-7d1a830206e8" name="Changes" comment="movingblock">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (4)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (4)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level0.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level0.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovingBlock.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovingBlock.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +24,12 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Finish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/HighScoreText.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/KillOnTouch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/MainMenu.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/MovingBlock.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/MovingBlock.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/fatem/My project (4)/Assets/Scripts/MovingBlock.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
@@ -65,7 +71,7 @@
       <updated>1657227249007</updated>
       <workItem from="1657227265692" duration="1270000" />
       <workItem from="1657232858006" duration="12508000" />
-      <workItem from="1657318927650" duration="27988000" />
+      <workItem from="1657318927650" duration="30497000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1657232199161</created>
@@ -319,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657385399932</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="movingblock">
+      <created>1657385728648</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1657385728648</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,11 +373,11 @@
     <MESSAGE value="TMP" />
     <MESSAGE value="MainMenu" />
     <MESSAGE value="moving block" />
-    <MESSAGE value="movingblock" />
     <MESSAGE value="mainmenue" />
     <MESSAGE value="mainmenu" />
     <MESSAGE value="movingBlocks" />
     <MESSAGE value="moving blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving blocks" />
+    <MESSAGE value="movingblock" />
+    <option name="LAST_COMMIT_MESSAGE" value="movingblock" />
   </component>
 </project>
