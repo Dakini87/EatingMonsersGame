@@ -1359,7 +1359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8453577105618298508, guid: 3662b9180f17b471a9c6dffe77b215ba, type: 3}
       propertyPath: _nextLevelName
-      value: Level1
+      value: Level3
       objectReference: {fileID: 0}
     - target: {fileID: 8453577105618298509, guid: 3662b9180f17b471a9c6dffe77b215ba, type: 3}
       propertyPath: m_RootOrder
@@ -2468,7 +2468,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Bird
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1005436107489700433, guid: d714f8196f9334a13badd280de2eb4c6, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d714f8196f9334a13badd280de2eb4c6, type: 3}
 --- !u!4 &6930784239455948565 stripped
 Transform:
