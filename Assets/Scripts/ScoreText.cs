@@ -5,6 +5,10 @@ using UnityEngine;
 
 public class ScoreText : MonoBehaviour
 {
+    void Start()
+    {
+        
+    }
 
     // Update is called once per frame
     void Update()

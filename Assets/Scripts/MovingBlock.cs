@@ -9,9 +9,9 @@ public class MovingBlock : MonoBehaviour
 
     float startingYPosition;
     public static int Score;
-    public static int HighScore;
+    //public static int HighScore;
 
-    void start()
+    void Start()
     {
         // save Y position
         startingYPosition = transform.position.y;
@@ -29,21 +29,21 @@ public class MovingBlock : MonoBehaviour
         {
             transform.position += Vector3.right * 30f;
             // by this code the crate will be created randomly 
-            //float newY = startingYPosition + UnityEngine.Random.Range(-1f, 1f);
-            //transform.position = new Vector3(transform.position.x, newY, 0f);
+            float newY = startingYPosition + UnityEngine.Random.Range(-1f, 1f);
+            transform.position = new Vector3(transform.position.x, newY, 0f);
             // increment it by one.
             Score++;
-            if (Score > HighScore)
-            {
-                HighScore = Score;
-                if (HighScore >= 20f)
-                {
-                    SceneManager.LoadScene("Level1");
-                }
+           // if (Score > HighScore)
+            //{
+              //  HighScore = Score;
+                //if (HighScore >= 20f)
+                //{
+                  //  SceneManager.LoadScene("Level1");
+               // }
 
 
 
-            }
+            //}
         }
     }
 }
