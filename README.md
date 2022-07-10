@@ -1,4 +1,4 @@
-# EatingMonsersGame
+# Eating Monsters Game
 The following were the steps of how this small 2d game called 'Eating Monsters' came together:
 
 1. Download the bird package from this website: https://game.courses/birds/
@@ -24,4 +24,5 @@ The following were the steps of how this small 2d game called 'Eating Monsters' 
 12.In order for level change to work we need to go to file on unity and Build settings to change the default scenes we like.
 21. To have a more efficient camera, we have to install Cinemachine Camera Controller & TargetGroup Camera. 
 22. The next step is Prefab Setup and Level Completion. we created the prefab folder. 
-23. In this project we used some references such as:  https://www.youtube.com/watch?v=8rdfcq-jePw&t=4103s,https://www.youtube.com/watch?v=-GWjA6dixV4, https://www.youtube.com/watch?v=Lu76c85LhGY&t=8405s, https://www.youtube.com/watch?v=OR0e-1UBEOU&t=7253s. 
+22. The next step is Prefab Setup and Level Completion. we created the prefab folder.
+23. Addition to his game- we added music , we added main menu scene with play button that takes you to level 0 , we added closing off scene  with button that get's you back to play the game again. We also added level 0 which is a bit different than other scenes- in order to progress you have to last without dying - you die if you touch red brick wall behind you. In order to get to level 1 you have to let 50 monsters pass the red brick wall - they count is randomized - not every mosnters counts to make it more challenging - also after the 1st group of monsters passing they position is randomized as well. We also added the 'creepy guys' falling from the sky an dthey are able to kill our player - that wasnt in his game. And lastly we added the closing scene- you won along with music and button to play again.
