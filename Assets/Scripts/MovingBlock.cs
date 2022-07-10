@@ -33,17 +33,11 @@ public class MovingBlock : MonoBehaviour
             transform.position = new Vector3(transform.position.x, newY, 0f);
             // increment it by one.
             Score++;
-           // if (Score > HighScore)
-            //{
-              //  HighScore = Score;
-                //if (HighScore >= 20f)
-                //{
-                  //  SceneManager.LoadScene("Level1");
-               // }
 
-
-
-            //}
+            if (Score >= 50)
+            {
+                SceneManager.LoadScene("Level1");
+            }
         }
     }
 }

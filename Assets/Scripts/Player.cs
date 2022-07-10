@@ -5,7 +5,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] Vector2 jumpVelocity;
-
     // Update is called once per frame
     void Update()
     {
@@ -14,6 +13,7 @@ public class Player : MonoBehaviour
         {
             // define the velocity of jumping 
             GetComponent<Rigidbody2D>().velocity = jumpVelocity;
+            
         }
     }
 }

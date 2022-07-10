@@ -12,6 +12,7 @@ public class ScoreText : MonoBehaviour
 
     // Update is called once per frame
     void Update()
+   
     {
         GetComponent<TMP_Text>() . SetText (MovingBlock .Score .ToString( ));
     }
