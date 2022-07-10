@@ -24,3 +24,4 @@ The following were the steps of how this small 2d game called 'Eating Monsters' 
 12.In order for level change to work we need to go to file on unity and Build settings to change the default scenes we like.
 21. To have a more efficient camera, we have to install Cinemachine Camera Controller & TargetGroup Camera. 
 22. The next step is Prefab Setup and Level Completion. we created the prefab folder. 
+23. In this project we used some references such as: https://www.youtube.com/watch?v=8rdfcq-jePw&t=4103s, https://www.youtube.com/watch?v=-GWjA6dixV4,https://www.youtube.com/watch?v=Lu76c85LhGY&t=8405s, https://www.youtube.com/watch?v=OR0e-1UBEOU&t=7253s. 
