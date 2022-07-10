@@ -2,7 +2,7 @@
 The following were the steps of how this small 2d game called 'Eating Monsters' came together:
 
 1. Download the bird package from this website: https://game.courses/birds/
-2. The aim of this project is to use this package features and try to modify them/add some features by using the appropriate codes according to the lecture of the IntroToUnity along with Jason Weimann 'Unity Game Development for Beginners' video/ courses guidlance. In short we start with builiding up our Assets , setting background and the coding with the initial features like making the bird flying or preventing them to fall and so on.
+2. The aim of this project is to use this package features and try to modify them/add some features by using the appropriate codes according to the lecture of the IntroToUnity along with Jason Weimann 'Unity Game Development for Beginners' video/ courses guidlance that can be accessed here: https://www.youtube.com/watch?v=Lu76c85LhGY&t=8712s . In short we start with builiding up our Assets , setting background and the coding with the initial features like making the bird flying or preventing them to fall and so on.
 3. The short description of the game is as follow- the player is a bird who in order to progress to another level have to kill all the monster in given level.
 4. We start with defining the environment and some initial functions for player such as using the mouse by clicking Up and Down as well as Dragging to change the color and position of the player.
 5. Creating a 2D Character with a SpriteRenderer, Physics with Rigidbody2D, Collisions, PolygonCollider2D, BoxCollider2D for the bird and the background. We also use this functions to change the color of the player. 
