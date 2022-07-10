@@ -240,7 +240,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 33d7e54c9e4bb4f3f8cc622bc6764cfc, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.343
+  m_Volume: 0.252
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -450,7 +450,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 374232212}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.265144, y: 0.20684537, z: 0}
+  m_LocalPosition: {x: -9.265144, y: 0.20684561, z: 0}
   m_LocalScale: {x: 290.25958, y: 245.28978, z: 163.52652}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -526,7 +526,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 9.366839
+  orthographic size: 7.587866
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -960,9 +960,9 @@ MonoBehaviour:
   m_text: '                             You are a Red Bird
 
     In order to progress
-    to the next levels you have to eat all the monsters. To navigate pull and grag
-    it and release to shot him towards durection you like. Mind the "Creepy Guys"
-    falling from the sky, if you touch them, you Die. '
+    to the next levels you have to eat all the monsters. To navigate -pull and drag
+    the bird and release to shot him towards direction you like. Mind the "Creepy
+    Guys" falling from the sky, if you touch them, you Die. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -6483,7 +6483,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1737292942}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -9.265144, y: 0.20684537, z: 0}
+  m_LocalPosition: {x: -9.265144, y: 0.20684561, z: 0}
   m_LocalScale: {x: 5.925172, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6520,7 +6520,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7695203, y: 1}
+    m_SensorSize: {x: 2.1843839, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0

@@ -1241,6 +1241,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BackrgoundMusic
       objectReference: {fileID: 0}
+    - target: {fileID: 710094658342179370, guid: 70393055d589849d49616114675275dc, type: 3}
+      propertyPath: m_Volume
+      value: 0.083
+      objectReference: {fileID: 0}
     - target: {fileID: 710094658342179371, guid: 70393055d589849d49616114675275dc, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -2504,7 +2508,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7739534725807015989, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: orthographic size
-      value: 5.783203
+      value: 5.3053246
       objectReference: {fileID: 0}
     - target: {fileID: 7739534725807016138, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2512,7 +2516,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7739534725807016138, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.028756246
+      value: 0.028756384
       objectReference: {fileID: 0}
     - target: {fileID: 7739534726138820177, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2520,7 +2524,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7739534726138820177, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.028756246
+      value: 0.028756384
       objectReference: {fileID: 0}
     - target: {fileID: 8367155691023688415, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_RootOrder

@@ -954,7 +954,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7739534725807015989, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: orthographic size
-      value: 4.8726563
+      value: 4.8316417
       objectReference: {fileID: 0}
     - target: {fileID: 7739534725807016138, guid: f40b8cb4b60d0414d8c2378af87efe22, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2553,6 +2553,10 @@ PrefabInstance:
     - target: {fileID: 710094658342179369, guid: 70393055d589849d49616114675275dc, type: 3}
       propertyPath: m_Name
       value: BackrgoundMusic
+      objectReference: {fileID: 0}
+    - target: {fileID: 710094658342179370, guid: 70393055d589849d49616114675275dc, type: 3}
+      propertyPath: m_Volume
+      value: 0.075
       objectReference: {fileID: 0}
     - target: {fileID: 710094658342179371, guid: 70393055d589849d49616114675275dc, type: 3}
       propertyPath: m_RootOrder
